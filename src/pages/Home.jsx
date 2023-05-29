@@ -15,7 +15,7 @@ import {
   BsWind,
   TbTemperatureCelsius,
   ImSpinner8,
-} from "react-icons/all";
+} from "../../node_modules/react-icons/all";
 
 const API = "acc5f321d79121e451b7745acc6cb565";
 
